@@ -20,6 +20,8 @@ public class Main {
         for (int i=0; i<a; i++){
             System.out.println(fib[i]);
         }
+	System.out.println("Anda berhasil membuat fibonacci");
+	//yang diatas yang ditambahin
 
     }
 }
